@@ -1,0 +1,8 @@
+.env
+/venv/
+server/*
+!server/mods/
+server/mods/*
+!server/mods/.gitkeep
+backups/*
+__pycache__
